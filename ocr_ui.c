@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-//to compile gcc $(pkg-config --libs --cflags gtk+-2.0) ocr_ui.c -o ocr
+// gcc $(pkg-config --libs --cflags gtk+-2.0) ocr_ui.c -o ocr
 
 
 
